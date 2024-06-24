@@ -1,0 +1,2 @@
+# Alzheimer-s-Disease-Classification-using-InceptionV3
+Alzheimer’s Disease Classification using InceptionV3 employs a deep learning model to classify brain MRI scans into various stages of Alzheimer's Disease. Utilizing TensorFlow and Keras, the project aims to aid in early diagnosis and treatment planning, leveraging advanced image processing and transfer learning techniques for accurate detection.
